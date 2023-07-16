@@ -29,7 +29,7 @@ header ul{
     display:flex;
     align-items: center;
     gap: 25px;
-    margin-right:350px;
+    margin-right:380px;
 }
 header ul li{
     list-style: none;
